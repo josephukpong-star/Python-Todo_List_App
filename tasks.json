@@ -1,0 +1,58 @@
+[
+    {
+        "task": "Acting",
+        "completed": true
+    },
+    {
+        "task": "Barbing",
+        "completed": true
+    },
+    {
+        "task": "Call Customer",
+        "completed": true
+    },
+    {
+        "task": "Cleaning",
+        "completed": true
+    },
+    {
+        "task": "Dancing",
+        "completed": true
+    },
+    {
+        "task": "Go to Church",
+        "completed": true
+    },
+    {
+        "task": "Lecturing",
+        "completed": true
+    },
+    {
+        "task": "Pay Electricity Bill",
+        "completed": true
+    },
+    {
+        "task": "Praying",
+        "completed": true
+    },
+    {
+        "task": "Prepare Presentation",
+        "completed": true
+    },
+    {
+        "task": "Study Python",
+        "completed": true
+    },
+    {
+        "task": "Swimming",
+        "completed": true
+    },
+    {
+        "task": "Visiting",
+        "completed": true
+    },
+    {
+        "task": "Sleeping",
+        "completed": true
+    }
+]
